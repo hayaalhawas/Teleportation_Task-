@@ -11,7 +11,7 @@ In this task, you will work with qubits using Qiskit to create a code with a fun
 ## Steps:
 1. Set up your Python environment with Qiskit and import the required libraries.
 2. Use two qubits to create an entangled Bell pair. Qubit A is given to Sara; Qubit B is given to Khalid
-3. Apply some operation to a specific qubit to perform the Teleportation
+3. Apply some operation to a specific qubits to perform the Teleportation
 4. Display an Output that proves that the performance of the teleportation has happened in your code
 
    
