@@ -1,7 +1,7 @@
 # Quantum Task: Teleportation 🌀 
 The goal of teleportation is to transfer a quantum bit. Sara and Khalid must use a third party (Telamon) to send them an entangled qubit pair over one classical bit. Sara then performs some operations on their qubit and sends the results to Khalid over a classical communication channel. Khalid then performs some operations on their end to receive Sara’s qubit.
 
-
+The teleportation protocol can be thought of as a flipped version of the superdense coding protocol, in the sense that Sare and Khalid merely “swap their equipment.”
 
 
 
