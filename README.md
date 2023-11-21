@@ -17,4 +17,6 @@ In this task, you will work with qubits using Qiskit to create a code with a fun
 
    
 ## References 🔗 
-Quantum teleportation Qiskit : https://learning.quantum-computing.ibm.com/tutorial/quantum-teleportation#the-quantum-teleportation-protocol)
+Quantum teleportation Qiskit : 
+https://learning.quantum-computing.ibm.com/tutorial/quantum-teleportation#the-quantum-teleportation-protocol)
+https://learn.qiskit.org/course/ch-algorithms/quantum-teleportation
