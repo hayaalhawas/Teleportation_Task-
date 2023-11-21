@@ -14,6 +14,15 @@ In this task, you will work with qubits using Qiskit to create a code with a fun
 3. Apply some operation to specific qubits to perform the Teleportation
 4. Display an Output that proves that the performance of the teleportation has happened in your code
 
+### Helpful Guide 📑:
+
+00 --> Apply I gate
+
+01 --> Apply X gate
+
+10 --> Apply Z gate
+
+11 --> Apply ZX gate
 
    
 ## References 🔗 
